@@ -2,7 +2,7 @@
 #include <math.h> // for pow function
 /*
 ---------------------------------------------------------------+
-    Exercice 2 :
+    Exercice 3 :
 
         Write a program that asks the user to
         enter two real numbers, X and Y,
