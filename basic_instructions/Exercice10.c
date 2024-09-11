@@ -32,5 +32,6 @@ int main()
 
     // output
     printf("The distance between A and B is : %.2f", Distance);
+
     return 0;
 }
