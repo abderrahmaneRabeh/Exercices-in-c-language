@@ -24,5 +24,7 @@ int main()
     (A >= 0 && B >= 0) || (A <= 0 && B <= 0) ? printf("The numbers have the same sign")
                                              : printf("The numbers have different signs");
 
+    // second way
+    // (A * B >= 0) ? printf("The numbers have the same sign") : printf("The numbers have different signs");
     return 0;
 }
