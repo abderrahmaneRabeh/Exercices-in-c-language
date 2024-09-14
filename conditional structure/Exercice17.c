@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
 ----------------------------------------------------------------------------------------+
-    Exercice 16 :
+    Exercice 17 :
 
       Write a program that asks the user for a child's age. Then, it informs them of
       the child's category: 'Poussin' for ages 6 to 7, 'Pupille'
